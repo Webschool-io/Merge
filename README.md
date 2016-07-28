@@ -1,6 +1,6 @@
 #Webschool Merge
 
-![Image of Webschool Merge](img/webschool_merge.jpg)
+![Image of Webschool Merge](https://raw.githubusercontent.com/EdsonLuiz/webschoolmerge/master/img/webschool_merge.jpg)
 
 ##Introdução
 O projeto Webschool merge tem como objetivo resover os seguintes problemas:
